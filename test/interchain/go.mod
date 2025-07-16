@@ -1,10 +1,10 @@
 module github.com/celestiaorg/celestia-app/test/interchain
 
-go 1.23.6
+go 1.24.2
 
 require (
 	cosmossdk.io/math v1.4.0
-	github.com/cosmos/cosmos-sdk v0.50.13
+	github.com/cosmos/cosmos-sdk v0.50.14
 	github.com/strangelove-ventures/interchaintest/v8 v8.5.0
 	github.com/stretchr/testify v1.10.0
 	go.uber.org/zap v1.27.0
